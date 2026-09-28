@@ -44,11 +44,11 @@
         "last_updated": "2026-09-25 21:45:21"
     },
     "26bai43563": {
-        "student_name": "abhigyanom",
+        "student_name": "Abhigyanom Kashyap",
         "registration_no": "26bai43563",
-        "study_hours": 8.0,
-        "preferred_time": "Afternoon",
-        "upcoming_exam": "CAT2",
+        "study_hours": 8.5,
+        "preferred_time": "Evening",
+        "upcoming_exam": "CAT 2",
         "subjects": [
             "CSE1021",
             "MAT1003",
@@ -56,12 +56,33 @@
             "CHY1006"
         ],
         "marks": [
-            76.0,
+            78.0,
             67.0,
             78.0,
-            89.0
+            90.0
         ],
         "created_at": "2026-09-27 14:57:23",
-        "last_updated": "2026-09-27 14:57:23"
+        "last_updated": "2026-09-27 15:52:10"
+    },
+    "26BAI10875": {
+        "student_name": "Shya Sharma",
+        "registration_no": "26BAI10875",
+        "study_hours": 8.0,
+        "preferred_time": "Evening",
+        "upcoming_exam": "CAT 2",
+        "subjects": [
+            "CSE1021",
+            "MAT1003",
+            "ENG1004",
+            "CHY1006"
+        ],
+        "marks": [
+            67.0,
+            78.0,
+            98.0,
+            65.0
+        ],
+        "created_at": "2026-09-27 15:49:10",
+        "last_updated": "2026-09-27 15:49:10"
     }
 }

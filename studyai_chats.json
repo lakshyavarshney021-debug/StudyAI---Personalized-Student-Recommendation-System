@@ -54,5 +54,24 @@
                 }
             ]
         }
+    ],
+    "26BAI10875": [],
+    "26BAI63455": [
+        {
+            "title": "New Study Chat",
+            "created_at": "2026-09-27 15:56:14",
+            "messages": [
+                {
+                    "role": "user",
+                    "message": "How I can study Mathemstics Effeciently.",
+                    "time": "15:56:14"
+                },
+                {
+                    "role": "assistant",
+                    "message": "Hello **Arijeet Verma (26BAI63455)**,\n\nIt is impressive to see your current score of **98.0 in MAT1003**. You are clearly performing at an elite level. Since you have **11 hours** available daily and prefer studying at **night**, we can optimize your routine to ensure you maintain that near-perfect score for your upcoming **CAT 2** exam.\n\nHere is a practical guide to studying Mathematics efficiently, tailored to your profile:\n\n### 1. Leverage Your \"Night Owl\" Advantage\nSince you study best at night, use your peak focus hours (e.g., 10:00 PM – 1:00 AM) for **problem-solving**. Mathematics requires deep concentration, which is easier to achieve when the surroundings are quiet.\n*   **The 2-Hour Block:** Dedicate a focused 2-hour block specifically for MAT1003 during your 11-hour study day.\n\n### 2. Move from \"Reviewing\" to \"Active Doing\"\nAt your level (98%), you likely understand the concepts. Efficiency now comes from speed and accuracy.\n*   **Don't read examples:** Cover the solutions of solved problems in your textbook/notes and try to solve them from scratch.\n*   **Timed Practice:** Set a timer for 30 minutes and see how many CAT 2 level questions you can solve without looking at notes. This builds exam-day stamina.\n\n### 3. Master the CAT 2 Syllabus Focus\nCAT 2 usually covers specific modules. \n*   **Identify Patterns:** Look at previous years' CAT 2 papers for MAT1003. Identify which topics carry the most weightage (e.g., specific theorems or multi-step integrations).\n*   **The \"Gap\" Strategy:** Since you have 98%, identify the specific 2% where you lose marks. Is it calculation errors, forgetting a specific formula, or time pressure? Focus your 11 hours on those \"gaps.\"\n\n### 4. Create a \"Formula & Condition\" Sheet\nMath isn't just formulas; it’s the **conditions** under which they apply.\n*   On a single sheet, write down the main formulas for the CAT 2 syllabus.\n*   Next to each, write a \"Trigger Note\" (e.g., \"Use this method ONLY if the denominator is irreducible\"). This prevents confusion during the exam.\n\n### 5. Utilize your 11-Hour Schedule\nWith 11 hours, you have plenty of time. Don't burn out by doing Math for 5 hours straight.\n*   **Interleaving:** Study MAT1003 for 2 hours, then switch to a theory-heavy subject like ENG1004 or CHY1006 to give your \"logic brain\" a rest. \n\n### 6. The \"Reverse Engineering\" Technique\nFor complex problems in MAT1003:\n*   Look at the final answer first. \n*   Try to work backward to see if you can deduce the final step. This deepens your understanding of how the mathematical logic connects.\n\n**StudyAI Pro-Tip for Arijeet:** \nSince your marks are already very high, your biggest enemy is **careless errors**. When practicing at night, double-check your signs (+/-) and basic arithmetic. That is usually the difference between a 98 and a 100.\n\nGood luck with your CAT 2 preparation! You are doing great.",
+                    "time": "15:56:30"
+                }
+            ]
+        }
     ]
 }
